@@ -1,10 +1,13 @@
 import React from "react";
+import "./Login.css";
+import LeftSide from "./LeftSide";
+import RightSide from "./RightSide";
 
 function Login() {
   return (
-    <div>
-      <h1>Login Page</h1>
-      <div>Test</div>
+    <div className="Login">
+      <LeftSide />
+      <RightSide />
     </div>
   );
 }
