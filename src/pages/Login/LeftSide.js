@@ -1,7 +1,7 @@
 import React from "react";
 
 function LeftSide() {
-  return <div>LeftSide</div>;
+  return <div>TESTTESTSETSET</div>;
 }
 
 export default LeftSide;
