@@ -5,7 +5,7 @@ import { Outlet } from 'react-router-dom';
 function RootLayout() {
   return (
     <>
-      <MainNavigate />
+      {/* <MainNavigate /> */}
 
       <main>
         <Outlet />
