@@ -1,4 +1,10 @@
 .Login {
     display: flex;
+
+    position: relative;
+    max-width: 1440px;
+
+
+    background: #F0F2F5;
     
 }
