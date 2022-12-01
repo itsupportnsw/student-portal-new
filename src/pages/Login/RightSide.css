@@ -1,0 +1,25 @@
+.RightSide {
+  position: absolute;
+  width: 487px;
+  height: 1024px;
+  left: 953px;
+  top: 0px;
+
+  background-image: url('https://aic.nsw.edu.au/wp-content/uploads/elementor/thumbs/gu-2321-p6d9v1nd1r8tgwkjchh17xh6849qpgwbdnexyk1n6o.jpg');
+
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.RightSide .contentBox {
+  position: absolute;
+  height: 253.54px;
+  left: 981.32px;
+  right: 44.28px;
+  bottom: 65.46px;
+
+  background: rgba(255, 242, 242, 0.13);
+  backdrop-filter: blur(50px);
+  /* Note: backdrop-filter has minimal browser support */
+
+  border-radius: 10px;
+}

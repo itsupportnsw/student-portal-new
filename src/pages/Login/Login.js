@@ -47,7 +47,7 @@ function Login(){
       </div>
       <div className="Login__RightSide">
         <div className="contentBox">
-          TEST
+         
         </div>
       </div>
     </div>

@@ -162,7 +162,7 @@
   
     background: rgba(255, 242, 242, 0.13);
     backdrop-filter: blur(50px);
-    /* Note: backdrop-filter has minimal browser support */
+    /* Note: backdrop-filter has minimal browser support */;
   
     border-radius: 10px;
   }
